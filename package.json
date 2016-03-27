@@ -1,0 +1,14 @@
+{
+  "name": "gray",
+  "version": "0.0.1",
+  "description": "evolutionary accessibility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jon Gold",
+  "license": "MIT",
+  "dependencies": {
+    "genetic-js": "^0.1.14"
+  }
+}
